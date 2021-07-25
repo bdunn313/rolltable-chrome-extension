@@ -1,0 +1,23 @@
+{
+  "name": "rolltable-extension",
+  "version": "1.0.0",
+  "description": "Rolltable Extension",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "ttrpg",
+    "rpg",
+    "random"
+  ],
+  "author": "Brad Dunn",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chrome": "0.0.148",
+    "typescript": "^4.3.5"
+  }
+}
